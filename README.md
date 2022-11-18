@@ -1,5 +1,4 @@
 # WebPolovnjak
-## Inspired by autozubak.hr
 
 ![alt text](https://media.discordapp.net/attachments/967011612617768960/1043174558582186096/image.png?width=1369&height=670)
 ![alt text](https://media.discordapp.net/attachments/967011612617768960/1043174630002794537/image.png?width=1376&height=669)
